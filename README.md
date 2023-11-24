@@ -1,4 +1,4 @@
-![image](https://github.com/ByMvskk/ByMvskk/assets/98288385/53b944b2-4471-41a3-803d-be7e4861dea4)### Bienvenido a mi perfil papu
+### Bienvenido a mi perfil papu
 
 aqui hago mis proyectos de paginas o en algun momento subire un src de un bot!
 
