@@ -1,6 +1,11 @@
 ### Bienvenido a mi perfil papu
 
-aqui hago mis proyectos de paginas o en algun momento subire un src de un bot!
+
+Owner in discord.gg/cachorro
+Learning HTML, JavaScript, Python.
+
+
+Pronouns: he/him
 
 <picture>
     <source
