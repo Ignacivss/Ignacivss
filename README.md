@@ -1,18 +1,15 @@
-### Bienvenido a mi perfil papu
+### Welcome to my profile
 
 
 
-Owner in discord.gg/cachorro
-
-Learning HTML, JavaScript, Python.
-
-Check here : [https://elcachorrospikee.web.app/](https://ecs-web-nine.vercel.app/)
+### ⛩️ About me
+Owner/Developer in [ECS](https://discord.gg/cachorro/). Learning HTML, JavaScript, Python. check here where I am dev/owner : [ecs web](https://ecs-web-nine.vercel.app/) [discord ecs](https://discord.gg/cachorro/)
 
 
+### 🍀 Pronouns
+he/him
 
-Pronouns: he/him
-
-### 📊 Estadisticas de github
+### 📊 Github statistics
 <table>
   <tr>
 	<td align="center" style="padding=0;width=50%;">
