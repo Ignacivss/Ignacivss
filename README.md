@@ -3,7 +3,7 @@
 
 
 ### ⛩️ About me
-Owner/Developer in [ECS](https://discord.gg/cachorro/). Learning HTML, JavaScript, Python. check here where I am dev/owner : [ecs web](https://ecs-web-nine.vercel.app/) [discord ecs](https://discord.gg/cachorro/)
+Owner/Developer in [ECS](https://discord.gg/cachorro/). Learning HTML, JavaScript, Python. check here where I am dev/owner : [ecs web](https://ecs-web-nine.vercel.app/) | [discord ecs](https://discord.gg/cachorro/)
 
 
 ### 🍀 Pronouns
