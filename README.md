@@ -1,11 +1,11 @@
-### Welcome to my profile 🐍
+### Welcome to my profile of github
 
 
 
 ### ⛩️ About me
-Nothing.
+A random guy who uploads his projects to github
 
-Learning HTML, JavaScript, Python.
+Currently learning html along with javascript and other languages
 
 
 ### 🍀 Pronouns
