@@ -15,10 +15,10 @@ he/him
 <table>
   <tr>
 	<td align="center" style="padding=0;width=50%;">
-	  <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=vitinnzcx&show_icons=true&title_color=60a5fa&text_color=f8fafc&theme=react&hide_border=true&count_private=true&bg_color=0f172a" height="180" />
+	  <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=gnacivss&show_icons=true&title_color=60a5fa&text_color=f8fafc&theme=react&hide_border=true&count_private=true&bg_color=0f172a" height="180" />
 	</td>
 	<td align="center" style="padding=0;width=50%;">
-	  <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitinnzcx&title_color=60a5fa&text_color=f8fafc&theme=react&hide_border=true&count_private=true&layout=compact&bg_color=0f172a" height="180" />
+	  <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnacivss&title_color=60a5fa&text_color=f8fafc&theme=react&hide_border=true&count_private=true&layout=compact&bg_color=0f172a" height="180" />
 	</td>
   </tr>
 </table>
