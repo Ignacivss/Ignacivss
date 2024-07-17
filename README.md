@@ -1,5 +1,5 @@
 # 💫 About Me:
-A random guy who uploads his projects to github<br>Currently learning html along with javascript and other languages<br>If you want to check out my websites <br>here is the links <br>https://igna.lol/<br>https://igna.club/
+A random guy who uploads his projects to github<br>Currently learning html along with javascript and other languages<br>If you want to check out my websites <br>here is the links <br>https://shiro.mom/<br>https://igna.club/
 
 
 ## 🌐 Socials:
