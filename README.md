@@ -30,11 +30,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/Ignacivss/Ignacivss/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ignacivss&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -49,23 +44,5 @@
   <img src="https://profile-counter.glitch.me/Ignacivss/count.svg?"  />
 </div>
 
-###
-
-<div align="center">
-  <a href="https://www.youtube.com/@Ignaaaaas" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-  <a href="https://t.me/sesuponequetengoqueponeralgoaca" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31cmfuw25tga4vkxdxba5nxhksuq">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31cmfuw25tga4vkxdxba5nxhksuq&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
